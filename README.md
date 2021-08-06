@@ -20,4 +20,4 @@
 
 
 [instagram]: https://instagram.com/yusrilmohamad
-[linkedin]: https://linkedin.com/in/mohamadyusril
+[linkedin]: https://linkedin.com/in/mohamad-yusril
