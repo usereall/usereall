@@ -1,8 +1,23 @@
-### Hi there! Welcome to my GitHub profile 👋
+### Hi there! Welcome to my GitHub profile :raised_hands:
+
+## I'm Mohamad Yusril
+- :mortar_board: I'm a student at Telkom University 
+- :seedling: I'm currently learning everything about life :laughing:
+- :eyes: I'm interested about math, physics, data science, programming, and many more
+
+## Connect with me
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 
-Here are some ideas to get you started:
 
-- :mortar_board: I'm currently a student at Telkom University
-- :eyes: I’m interested about data science
-- :speech_balloon: you can contact me on muhamadyusril44@gmail.com
+---
+</details>
+
+
+
+[instagram]: https://instagram.com/yusrilmohamad
+[linkedin]: https://linkedin.com/in/mohamadyusril
