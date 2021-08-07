@@ -17,7 +17,5 @@
 ---
 </details>
 
-
-
 [instagram]: https://instagram.com/yusrilmohamad
 [linkedin]: https://linkedin.com/in/mohamad-yusril-0a5a851bb
